@@ -27,8 +27,5 @@ feature-selection-crossdomain/
 ├── requirements.txt             # Required Python packages
 ├── LICENSE                      # MIT License
 ├── README.md                    # You are here
-│
-├── data/                        # Dataset loading or pointers
-│   └── (optional placeholder or instructions)
 ├── results/                     # Charts, CSVs of results, performance tables
     └── macrof1_plot.png, runtime_table.csv, etc.
