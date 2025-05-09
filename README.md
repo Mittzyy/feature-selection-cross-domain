@@ -7,7 +7,9 @@ by Aulia Miftah Razak & Shofwatul Uyun
 
 📄 Overview
 
-This project presents a systematic comparison of three feature selection (FS) methods — Chi-square, **Recursive Feature Elimination (RFE), and LASSO — across datasets representing three different data domains:
+This project presents a systematic comparison of three feature selection (FS) 
+methods — Chi-square, Recursive Feature Elimination (RFE), and LASSO 
+across datasets representing three different data domains:
 
 - 🧬 Breast Cancer Wisconsin (Tabular Medical)
 - 📰 20 Newsgroups (Sparse Text)
@@ -18,7 +20,6 @@ The evaluation considers predictive performance (Macro-F1), execution time (seco
 ---
 
 📁 Repository Structure
-
 ```bash
 feature-selection-crossdomain/
 │
