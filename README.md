@@ -23,8 +23,8 @@ The evaluation considers predictive performance (Macro-F1), execution time (seco
 ```bash
 feature-selection-crossdomain/
 │
-├── fs_full_pipeline_one_domain - OPTTIMIZED2.ipynb      # Main pipeline: FS methods, model training
-├── combined visualisation.ipynb          # Charts: macro-F1, runtime, memory usage
+├── evaluation.ipynb      # Main pipeline: FS methods, model training
+├── visualisasi.ipynb/uji statistik.ipynb          # Charts: macro-F1, runtime, memory usage
 ├── requirements.txt             # Required Python packages
 ├── LICENSE                      # MIT License
 ├── README.md                    # You are here
